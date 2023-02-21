@@ -1,0 +1,33 @@
+.title{
+color: rgb(0, 0, 0);
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-align: center;
+font-size: 50px;
+}
+
+.image{
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+}
+
+.gitlink{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 20px;
+    margin-bottom: 30px;
+}
+.aboutlink{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    color: black;
+    text-decoration: none;
+    text-align: center;
+}
+
+.description{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    color: black;
+    text-decoration: none;
+    text-align: center;
+}

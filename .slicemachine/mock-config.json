@@ -1,0 +1,12 @@
+{
+  "slices": {
+    "Textblock": {},
+    "HeroSlice": {},
+    "ImageGrid": {},
+    "AboutSlice": {}
+  },
+  "_cts": {
+    "homepage": {},
+    "page": {}
+  }
+}
