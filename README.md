@@ -1,7 +1,7 @@
 CMS System guide in module 6.
 
 For this project I used this video https://www.youtube.com/watch?v=QeD31HHsREg&ab_channel=HamedBahram and this text tutorial along side it https://www.hamedbahram.io/notes/prismic#. 
-I recommend this tutorial, it was easy to follow and in the video he explains everything very well.
+I recommend this tutorial at least to begin, it was easy to follow and in the video he explains everything very well.
 I ran into some errors, especially with linking the page to the homepage using PrismicLink. Ran into some more errors aswell so this guide took a little more time than I planned. 
 I really like the idea of using Prismic and Slice machine even though I got all these errors. I want to gain a better understanding of it because I feel it's a really cool way to make websites for clients that can edit the content themselves.
 
